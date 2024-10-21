@@ -1,7 +1,7 @@
 body {
   font-size: 14px;
 }
-
+/*Applies to all </h1>...</h1> elements. */
 h1{
   color:red;
 }
