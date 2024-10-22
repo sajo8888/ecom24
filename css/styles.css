@@ -1,7 +1,257 @@
+* {
+    margin-block-start: 0;
+
+
+}
+
 body {
-  font-size: 14px;
+    background-color: #020B15;
+    margin: 0;
+    margin-top: 0;
+ 
+   
 }
-/*Applies to all </h1>...</h1> elements. */
-h1{
-  color:red;
+.italiana-regular {
+    font-family: "Italiana", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+header {
+    color: #fff;
+    background-image: url("https://images.unsplash.com/photo-1620812097331-ff636155488f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-position: center;
+    height: 655px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+  
 }
+
+
+.name h1 {
+    font-size: 96PX;
+    font-family: 'Italiana', serif;
+    text-align: center;
+    margin-bottom: 0;
+
+}
+
+
+.name p {
+    font-family: 'italianno';
+    font-size: 40px;
+    margin-top: 0;
+    text-align: right;
+    margin-right: 0%;
+    margin-bottom: 0;
+
+}
+
+h2 {
+     font-family: 'Italiana', serif;
+     margin-bottom: 0%;
+}
+p {
+    font-family:  sans-serif;
+
+}
+
+
+
+.mellan1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: "Italiana" ;
+    font-size: 30px
+    
+}
+
+
+.webbteknik {
+    width: 610px;
+    height: 360px;
+    background-image: url("robotic mower.png");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+.grasgiganten {
+    width: 610px;
+    height: 360px;
+    background-color: #090808;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.mellan2 {
+    color: #080808;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+
+.mellan2 h2 {
+    margin-bottom: 1%;
+
+}
+
+
+.reflektion {
+
+    width: 1218px;
+    height: 201px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+  
+
+}
+.reflektion hr {
+    border: none;
+    border-top: solid #500131;
+    width: 135px;
+    
+}
+p {
+    margin-top: 1%;
+    margin-left: 77px;
+    margin-right: 77px;
+}
+.bidrag {
+
+    width: 1218px;
+    height: 201px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.bidrag hr {
+    border: none;
+    border-top: solid #083E3C;
+    width: 135px;
+}
+.utmaningar {
+
+    width: 1218px;
+    height: 201px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.utmaningar hr {
+    border: none;
+    border-top: solid #500131;
+    width: 135px; 
+}
+.förbättringar {
+
+    width: 1218px;
+    height: 201px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.förbättringar hr {
+    border: none;
+    border-top: solid #140215;
+    width: 135px; 
+}
+.slutsats {
+
+    width: 1218px;
+    height: 201px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.slutsats hr {
+    border: none;
+    border-top: solid #083E3C;
+    width: 135px; 
+}
+.tack {
+
+    width: 610.5px;
+    height: 373px;
+    background-color: #090808;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.mellan3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.social_media {
+    width: 610.5px;
+    height: 373px;
+    background-color: #090808;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+
+}
+.social_media a {
+    padding: 0 25px;
+}
+
+
+.signature-text {
+color: #fff;
+text-align: center;
+}
+
+.purple-text {
+color: #950F61;
+}
+
+
+   
+
