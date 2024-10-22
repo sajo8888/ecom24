@@ -76,7 +76,7 @@ p {
 .webbteknik {
     width: 610px;
     height: 360px;
-    background-image: url("robotic mower.png");
+    background-image: url("Image/robotic mower.png");
     background-size: cover;
     background-position: center;
     display: flex;
